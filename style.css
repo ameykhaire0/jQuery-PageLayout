@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* .header,
+.footer {
+  color: "red";
+  background-color: "yellow";
+} */
+
+.myDiv {
+  display: "inline-block";
+  color: "red";
+  background-color: "blue";
+  margin: "auto";
+}
